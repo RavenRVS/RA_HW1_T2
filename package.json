@@ -1,6 +1,7 @@
 {
   "name": "ra_hw1_t2",
   "private": true,
+  "homepage": "https://ravenrvs.github.io/RA_HW1_T2/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
